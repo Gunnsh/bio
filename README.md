@@ -1,3 +1,1 @@
-OS: Manjaro (Arch)
-PHP - Laravel
-Docker / Postgres / Node.js / Git
+Manjaro (Arch) / PHP - Laravel / Docker / Postgres / Node.js / Git
